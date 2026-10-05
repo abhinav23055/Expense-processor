@@ -1,0 +1,10 @@
+expense_date,category,description,amount,payment_method
+2026-02-02,Food,Breakfast,120.00,Cash
+2026-02-06,Transport,Metro card recharge,500.00,Card
+2026-02-10,Utilities,Internet bill,999.00,UPI
+2026-02-14,Entertainment,Concert tickets,3500.00,Card
+2026-02-18,Food,Groceries,1420.75,UPI
+2026-02-22,Shopping,Running shoes,3200.00,Card
+2026-02-25,Food,Lunch,210.00,UPI
+2026-01-28,Transport,Cab to airport,780.00,UPI
+2026-02-27,Food,Snacks,abc,Cash
