@@ -14,7 +14,7 @@ dependencies = [
 ]
 
 [project.scripts]
-expense-processing = "expense_processing:main"
+expense-processing = "expense_processing.main:main"
 
 [build-system]
 requires = ["uv_build>=0.12.18,<0.13.0"]
