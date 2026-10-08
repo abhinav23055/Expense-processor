@@ -11,6 +11,5 @@ DB_CONFIG = {
     "host": os.getenv("POSTGRES_HOST", "localhost"),
     "port": os.getenv("POSTGRES_PORT", "5432")
 }
-
 DATA_FOLDER = os.getenv("DATA_FOLDER", "data")
 LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO").upper()
