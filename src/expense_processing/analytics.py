@@ -4,8 +4,8 @@ from typing import LiteralString
 REPORTS: dict[str, LiteralString] = {
     "by-category": """
         SELECT category,
-               COUNT(*)              AS num_expenses,
-               SUM(amount)           AS total_spent,
+               COUNT(*) AS num_expenses,
+               SUM(amount) AS total_spent,
                ROUND(AVG(amount), 2) AS average_spent
         FROM expenses
         GROUP BY category
@@ -13,9 +13,9 @@ REPORTS: dict[str, LiteralString] = {
     """,
     "monthly": """
         SELECT DATE_TRUNC('month', expense_date)::date AS month,
-               COUNT(*)                                AS num_expenses,
-               SUM(amount)                             AS total_spent,
-               ROUND(AVG(amount), 2)                   AS average_spent
+               COUNT(*) AS num_expenses,
+               SUM(amount) AS total_spent,
+               ROUND(AVG(amount), 2) AS average_spent
         FROM expenses
         GROUP BY month
         ORDER BY month

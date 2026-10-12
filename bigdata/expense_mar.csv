@@ -1,0 +1,101 @@
+expense_date,category,description,amount,payment_method
+2026-03-10,Entertainment,Dinner,-259.18,Cash
+2026-03-08,Transport,Headphones,898.38,Cash
+2026-03-06,Entertainment,Movie ticket,1992.68,Cash
+2026-03-11,Shopping,Lunch at cafe,-51.41,Card
+2026-03-12,Transport,Dinner with friends,1787.48,Card
+2026-03-10,Food,Movie ticket,-605.39,Cash
+2026-03-28,Shopping,Winter jacket,1822.25,UPI
+2026-03-04,Shopping,Lunch at cafe,272.29,Cash
+2026-03-30,Food,Headphones,2342.53,Card
+2026-03-25,Shopping,Headphones,1590.11,Card
+2026-03-09,Food,Headphones,2380.86,UPI
+2026-03-16,Food,Groceries,275.23,Cash
+2026-03-23,Utilities,Groceries,2670.53,UPI
+2026-03-23,Utilities,Winter jacket,1071.7,UPI
+2026-03-02,Utilities,Dinner,-949.19,UPI
+2026-03-10,Utilities,Movie ticket,-437.36,Cash
+2026-03-29,Transport,Cab to airport,224.0,Card
+2026-03-06,Utilities,Dinner,614.28,Cash
+2026-03-12,Entertainment,Groceries,1342.57,UPI
+2026-03-21,Entertainment,Winter jacket,-868.76,UPI
+2026-03-30,Shopping,Lunch at cafe,212.52,Card
+2026-03-26,Shopping,Electricity bill,742.54,Cash
+2026-03-27,Shopping,Movie ticket,2629.44,Card
+2026-03-09,Transport,Movie tickets,2703.17,Card
+2026-03-29,Shopping,Cab to airport,1256.93,Cash
+2026-03-23,Shopping,Metro card recharge,2645.96,Cash
+2026-03-07,Transport,Electricity bill,326.93,Cash
+2026-03-19,Food,Metro card recharge,2520.67,Cash
+2026-03-07,Shopping,Cab to airport,-892.56,UPI
+2026-03-22,Utilities,Winter jacket,2519.37,UPI
+2026-03-04,Utilities,Lunch at cafe,1605.77,UPI
+2026-03-25,Shopping,Movie ticket,-557.61,Card
+2026-03-23,Utilities,Lunch at cafe,-150.47,UPI
+2026-03-15,Entertainment,Groceries,239.14,Cash
+2026-03-19,Utilities,Winter jacket,1420.33,Card
+2026-03-04,Food,Movie tickets,190.59,Card
+2026-03-09,Utilities,Metro card recharge,364.93,Cash
+2026-03-15,Food,Movie tickets,2184.96,Cash
+2026-03-26,Food,Metro card recharge,-804.11,Cash
+2026-03-16,Transport,Groceries,816.83,Card
+2026-03-29,Transport,Headphones,2030.42,UPI
+2026-03-21,Shopping,Movie tickets,-694.13,Cash
+2026-03-28,Transport,Winter jacket,2886.04,Card
+2026-03-22,Food,Headphones,-441.13,Cash
+2026-03-15,Utilities,Cab to airport,1023.62,Card
+2026-03-28,Shopping,Lunch at cafe,713.89,Card
+2026-03-20,Entertainment,Dinner with friends,2881.52,Card
+2026-03-07,Food,Metro card recharge,1958.68,Cash
+2026-03-24,Transport,Metro card recharge,2961.36,Card
+2026-03-02,Shopping,Lunch at cafe,-609.65,Cash
+2026-03-25,Utilities,Winter jacket,203.76,Cash
+2026-03-30,Shopping,Winter jacket,1199.16,Cash
+2026-03-05,Entertainment,Groceries,2902.3,UPI
+2026-03-24,Utilities,Metro card recharge,2221.52,UPI
+2026-03-26,Shopping,Movie ticket,-588.73,Cash
+2026-03-07,Transport,Lunch at cafe,2082.79,Cash
+2026-03-25,Entertainment,Winter jacket,2999.02,Card
+2026-03-02,Utilities,Winter jacket,2722.45,UPI
+2026-03-20,Transport,Cab to airport,-960.65,UPI
+2026-03-09,Transport,Dinner with friends,-889.48,Card
+2026-03-24,Food,Cab to airport,937.86,Card
+2026-03-06,Transport,Winter jacket,648.58,Card
+2026-03-24,Utilities,Dinner,1040.48,Card
+2026-03-12,Food,Lunch at cafe,1191.24,UPI
+2026-03-20,Utilities,Movie tickets,-40.45,Card
+2026-03-01,Transport,Electricity bill,-318.08,UPI
+2026-03-01,Transport,Dinner,2637.5,Cash
+2026-03-24,Food,Metro card recharge,128.33,Cash
+2026-03-05,Shopping,Winter jacket,801.7,UPI
+2026-03-21,Utilities,Movie tickets,2459.85,Card
+2026-03-19,Food,Dinner with friends,888.22,Card
+2026-03-16,Food,Movie tickets,-71.48,Card
+2026-03-01,Food,Headphones,511.85,UPI
+2026-03-27,Shopping,Cab to airport,-775.81,UPI
+2026-03-16,Utilities,Lunch at cafe,2935.91,UPI
+2026-03-17,Utilities,Winter jacket,1651.49,UPI
+2026-03-15,Shopping,Lunch at cafe,-577.98,UPI
+2026-03-12,Utilities,Cab to airport,2128.25,Card
+2026-03-16,Transport,Cab to airport,2719.02,Card
+2026-03-07,Transport,Cab to airport,114.84,Cash
+2026-03-22,Food,Dinner with friends,-247.23,Cash
+2026-03-04,Utilities,Cab to airport,-100.76,Cash
+2026-03-13,Food,Electricity bill,2004.55,UPI
+2026-03-29,Food,Movie tickets,778.73,Card
+2026-03-14,Transport,Lunch at cafe,-481.33,Cash
+2026-03-07,Food,Cab to airport,-393.77,UPI
+2026-03-24,Utilities,Electricity bill,2796.99,Cash
+2026-03-22,Shopping,Dinner with friends,2554.75,Card
+2026-03-13,Shopping,Winter jacket,1268.75,UPI
+2026-03-15,Entertainment,Metro card recharge,1432.43,Cash
+2026-03-07,Shopping,Winter jacket,-907.46,Cash
+2026-03-17,Shopping,Metro card recharge,-686.7,UPI
+2026-03-29,Food,Cab to airport,-234.41,Card
+2026-03-16,Utilities,Movie ticket,2743.21,Card
+2026-03-19,Entertainment,Dinner,2030.43,Cash
+2026-03-15,Transport,Lunch at cafe,1143.09,Cash
+2026-03-25,Food,Metro card recharge,2020.24,Card
+2026-03-02,Transport,Dinner with friends,-614.46,Card
+2026-03-26,Food,Movie ticket,-649.1,Cash
+2026-03-01,Shopping,Winter jacket,-191.87,UPI
